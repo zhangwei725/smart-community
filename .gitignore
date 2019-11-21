@@ -1,0 +1,4 @@
+# Project exclude paths
+/smart-demo/sb-redis-example/target/
+/smart-mail/target/
+/smart-user-center/target/
